@@ -1,0 +1,104 @@
+@media only screen and (max-width: 1025px){
+    header{
+    text-align: center;
+    width: 20%;
+    background-color: darkturquoise;
+    float: left;
+    height: 100px;
+    }
+    .menu{
+        text-align: center;
+        width: 80%;
+        background-color: red;
+        margin-top: 0px;
+        float: right;
+        height: 100px;
+    }
+    .hero{
+        width: 100%;
+        height: 200px;
+        background: rosybrown;
+        float: left;
+    }
+    main{
+        width: 50%;
+        height: 140px;
+        background: royalblue;
+        float: left;
+    }
+.banner{
+    width: 100%;
+    background: seagreen;
+    height: 100px;
+    float: left;
+    
+}
+div{
+    width: 30%;
+    height: 140px;
+    float: left;
+}
+.img{
+    width: 20%;
+    background: papayawhip;
+    float: right;
+    height: 70px;
+}
+.extra{
+    float: right;
+    width: 20%;
+    height: 70px;
+    background: lightgray;
+}
+}
+header{
+    text-align: center;
+    width: 20%;
+    background-color: darkturquoise;
+    float: left;
+    height: 100px;
+    }
+    .menu{
+        text-align: center;
+        width: 80%;
+        background-color: red;
+        margin-top: 0px;
+        float: right;
+        height: 100px;
+    }
+    .hero{
+        width: 100%;
+        height: 200px;
+        background: rosybrown;
+        float: left;
+    }
+    main{
+        width: 50%;
+        height: 140px;
+        background: royalblue;
+        float: left;
+    }
+.banner{
+    width: 100%;
+    background: seagreen;
+    height: 100px;
+    float: left;
+    
+}
+div{
+    width: 20%;
+    height: 140px;
+    float: left;
+}
+.img{
+    width: 25%;
+    background: papayawhip;
+    float: right;
+    height: 70px;
+}
+.extra{
+    float: right;
+    width: 25%;
+    height: 70px;
+    background: lightgray;
+}

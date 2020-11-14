@@ -1,0 +1,100 @@
+@media only screen and (max-width: 768px){
+a{
+    text-align: center;
+}
+    header{
+        height: 110;
+        width: 100%;
+        background: rgb(51, 37, 37);
+        color: white;
+        text-align: center;
+    }
+    .hero{
+        height: 150px;
+        background: yellow;
+        width: 100%;
+        float: left;
+            }
+    .menu{
+        float: left;
+        width: 30%;
+        height: 300px;
+        background: red;
+        bottom: 0;
+    }
+    .main{
+        background: green;
+        height: 150px;
+        width: 70%;  
+        float: right;
+        text-align: center;
+    }
+    .banner{
+        height: 75px;
+        width: 70%;
+        background: chocolate;
+        float: left;
+
+    }
+    .img{
+        width: 40%;
+        height: 75px;
+        background: cyan;
+        float: right;
+    }
+    .extra{
+     width: 30%;
+     height: 75px;   
+     background: darkslategray;
+     float: left;
+    }
+}
+a{
+    text-align: center;
+}
+    header{
+        height: 110;
+        width: 100%;
+        background: rgb(51, 37, 37);
+        color: white;
+        text-align: center;
+    }
+    .hero{
+        height: 150px;
+        background: yellow;
+        width: 100%;
+        float: left;
+            }
+    .menu{
+        float: left;
+        width: 30%;
+        height: 300px;
+        background: red;
+        bottom: 0;
+    }
+    .main{
+        background: green;
+        height: 150px;
+        width: 70%;  
+        float: right;
+        text-align: center;
+    }
+    .banner{
+        height: 75px;
+        width: 70%;
+        background: chocolate;
+        float: left;
+
+    }
+    .img{
+        width: 40%;
+        height: 75px;
+        background: cyan;
+        float: right;
+    }
+    .extra{
+     width: 30%;
+     height: 75px;   
+     background: darkslategray;
+     float: left;
+    }
